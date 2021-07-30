@@ -6,8 +6,8 @@
     <h2>Neural Language Models for Historical Research</h2>
 </div>
 
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2Fsrbdts%2FhistLM.git/my-binder)
- 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/srbdts/histLM.git/my-binder)
+
 <p align="center">
     <a href="https://github.com/Living-with-machines/histLM/workflows/Continuous%20integration/badge.svg">
         <img alt="Continuous integration badge" src="https://github.com/Living-with-machines/histLM/workflows/Continuous%20integration/badge.svg">
